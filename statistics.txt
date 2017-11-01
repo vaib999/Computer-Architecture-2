@@ -1,0 +1,6 @@
+Local Predictor
+Correct:  8559
+Global Predictor
+Correct:  9266
+Tournament Predictor
+Correct:  9980
